@@ -15,7 +15,7 @@ void printBricks(int n)
 {
     //For i in n
     for
-    (int i = 1; i <= n; i++)
+    (int i = 0; i < n; i++)
     {
         //print (n - i) spaces,
         for
